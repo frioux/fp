@@ -1,0 +1,12 @@
+# fp
+
+This repository is meant as a place to for me to practice building little video
+games, just for the fun of it.  The initial plan is to make basic games adhering
+to prior [Ludum Dare][ld] events, in whichever order seems most fun.
+
+I intend to write in Go, partially for practice, and partially for the
+simplicity of the produced executable.  I'll use SDL for graphics and sound
+because it's an obvious, well supported option.  I will probably sometimes use
+Pico-8 since it's less effort for basic stuff.
+
+[ld]: https://ldjam.com/
